@@ -198,6 +198,8 @@
 	</data>
 	<key>name</key>
 	<string>Flat</string>
+	<key>shellExitAction</key>
+	<integer>1</integer>
 	<key>type</key>
 	<string>Window Settings</string>
 </dict>
